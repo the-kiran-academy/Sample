@@ -8,6 +8,8 @@ public class Test {
 		Operation operation=new Operation();
 		operation.add(10, 20);
 
+		operation.sub(45, 20);
+
 	}
 
 }
